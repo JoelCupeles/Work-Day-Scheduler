@@ -26,4 +26,4 @@ This project is licensed under the MIT License.
 ## Links
 https://joelcupeles.github.io/Work-Day-Scheduler/
 
-![](C:\Users\joelc\bootcamp\Work-Day-Scheduler\Develop\joelcupeles.github.io_Work-Day-Scheduler_.png) 
+![](CDevelop/joelcupeles.github.io_Work-Day-Scheduler_.png) 
